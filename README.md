@@ -1,2 +1,2 @@
 # Tech News HTML - CSS
-![](./screenshot.png)
+![](img/screenshot.png)
